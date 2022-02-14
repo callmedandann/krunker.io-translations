@@ -946,8 +946,8 @@ commands.noclip.on Noclip - Naka-enabled
 commands.noclip.off Noclip - Naka-disabled
 commands.god.on God mode - Naka-enabled
 commands.god.off God mode - Naka-disabled
-commands.god.on.other God mode - Enabled for {0}
-commands.god.off.other God mode - Disabled for {0}
+commands.god.on.other God mode - Naka-enabled ng {0}
+commands.god.off.other God mode - Naka-enabled ng {0}
 commands.smite.on Smite - Enabled
 commands.smite.off Smite - Disabled
 commands.smite.on.other Smite - Enabled for {0}
